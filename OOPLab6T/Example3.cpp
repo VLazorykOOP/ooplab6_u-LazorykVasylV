@@ -87,7 +87,7 @@ namespace SpaceExample3 {
 
         cout << def.toString() << endl;
         cout << lvCh.toString() << endl;
-        cout << pVnCn->toString() << endl;
+        cout << pVnCn->toString() << endl;  // тест
         return 0;
     }
 
